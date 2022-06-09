@@ -1,0 +1,57 @@
+
+    for (int a = 0; a < 1; a++)
+    {
+        int hola1 = aleatorio.Next(0, 8);
+        int hola2 = aleatorio.Next(0, 8);
+        int hola3 = aleatorio.Next(0, 8);
+        int hola4 = aleatorio.Next(0, 8);
+        do
+        {
+            if (hola1 == auxi2 || hola1 == auxi3 || hola1 == auxi4 || hola1 == auxi1 || hola1 == hola2 || hola1 == hola3 || hola1 == hola4)
+            {
+                hola1 = aleatorio.Next(0, 8);
+            }
+            if (hola2 == auxi3 || hola2 == auxi4 || hola2 == auxi1 || hola2 == auxi2 || hola2 == hola3 || hola2 == hola4)
+            {
+                hola2 = aleatorio.Next(0, 8);
+            }
+            if (hola3 == auxi4 || hola3 == auxi2 || hola3 == auxi3 || hola3 == auxi4 || hola3 == auxi1)
+            {
+                hola3 = aleatorio.Next(0, 8);
+            }
+            if (hola1 == auxi2 && hola1 == auxi3 && hola1 == auxi4 && hola1 == auxi1 && hola1 == hola2 && hola1 == hola3 && hola1 == hola4
+        && hola2 == auxi3 && hola2 == auxi4 && hola2 == auxi1 && hola2 == auxi2 && hola2 == hola3 && hola2 == hola4
+            && hola3 == auxi4 && hola3 == auxi2 && hola3 == auxi3 && hola3 == auxi4 && hola3 == auxi1)
+            {
+                break;
+            }
+        } while (hola1 == auxi2 || hola1 == auxi3 || hola1 == auxi4 || hola1 == auxi1 || hola1 == hola2 || hola1 == hola3 || hola1 == hola4
+        || hola2 == auxi3 || hola2 == auxi4 || hola2 == auxi1 || hola2 == auxi2 || hola2 == hola3 || hola2 == hola4
+            || hola3 == auxi4 || hola3 == auxi2 || hola3 == auxi3 || hola3 == auxi4 || hola3 == auxi1);
+
+        carton[2, hola1] = 0;
+        carton[2, hola2] = 0;
+        carton[2, hola3] = 0;
+        carton[2, hola4] = 0;
+    }
+
+
+
+
+
+
+
+
+
+hola1    4           auxi1    6                    
+hola2    1   6        auxi2    7        
+hola3    4           auxi3    1          
+hola4    7           auxi4    3
+
+
+
+
+
+
+
+             

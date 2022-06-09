@@ -1,0 +1,15 @@
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.csproj.AssemblyReference.cache
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.AssemblyInfoInputs.cache
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.AssemblyInfo.cs
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.csproj.CoreCompileInputs.cache
+D:\1Polotecnologico\actividades\2\bin\Debug\net6.0\actividades.exe
+D:\1Polotecnologico\actividades\2\bin\Debug\net6.0\actividades.deps.json
+D:\1Polotecnologico\actividades\2\bin\Debug\net6.0\actividades.runtimeconfig.json
+D:\1Polotecnologico\actividades\2\bin\Debug\net6.0\actividades.dll
+D:\1Polotecnologico\actividades\2\bin\Debug\net6.0\actividades.pdb
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.dll
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\refint\actividades.dll
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.pdb
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\actividades.genruntimeconfig.cache
+D:\1Polotecnologico\actividades\2\obj\Debug\net6.0\ref\actividades.dll
